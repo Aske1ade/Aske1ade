@@ -43,9 +43,7 @@ I build marketplaces, admin dashboards, and real‑time integrations, aiming for
 **Auth**: NextAuth (Email/OAuth/credentials), RBAC (admin/vendor/customer)
 **DevOps**: Docker, docker‑compose, Nginx, basic CI/CD
 **Monitoring**: Grafana, Zabbix
-**Networking**: MikroTik
-
-> Also familiar with: Stripe/Kaspi payments, Playwright/Jest/Vitest, GitHub Actions.
+**Networking**: MikroTik, Cisco, Ubiquiti 
 
 ---
 
@@ -148,8 +146,6 @@ SMTP_FROM="GoCart <noreply@gocart.local>"
 ---
 
 ## 📊 GitHub Stats (auto)
-
-> Update `USERNAME` in image URLs.
 
 <div align="center">
 
