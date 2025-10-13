@@ -147,16 +147,11 @@ SMTP_FROM="GoCart <noreply@gocart.local>"
 
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=aske1ade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aske1ade&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aske1ade&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aske1ade&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div align="center"> 
+  ![Stats](https://github-readme-stats.vercel.app/api?username=aske1ade\&show_icons=true\&theme=transparent)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aske1ade\&layout=compact\&theme=transparent) 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=aske1ade\&theme=transparent)](https://git.io/streak-stats) 
+  [![trophy](https://github-profile-trophy.vercel.app/?username=aske1ade\&theme=flat\&no-frame=true\&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy) 
 </div>
 
 
