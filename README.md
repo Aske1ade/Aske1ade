@@ -74,10 +74,10 @@ I build marketplaces, admin dashboards, and real‑time integrations, aiming for
 ## 💼 Experience & Education (short)
 
 * **Engineer — Freedom Telecom**
-  *Ops, monitoring, networking; supervisor: Toktarbayev Daniyar (Operations Engineer for RRL).*
+  *Ops, monitoring, networking; supervisor: Daniyar (Operations Engineer for RRL).*
 * **Full‑Stack Engineer — NITEC (2024–2025)**
   *Linux, FastAPI, React.js, PostgreSQL, Docker, Nginx, Grafana, Zabbix, CI/CD basics.*
-* **B.S. in Cybersecurity — Astana IT University** (Diploma expected ~3 months from 2025‑03‑22).
+* **B.S. in Cybersecurity — Astana IT University**.
 ---
 
 ## 🐳 Docker Example (compose)
