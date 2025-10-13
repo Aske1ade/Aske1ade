@@ -149,7 +149,6 @@ SMTP_FROM="GoCart <noreply@gocart.local>"
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aske1ade\&layout=compact\&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aske1ade&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aske1ade&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
