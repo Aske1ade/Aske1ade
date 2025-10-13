@@ -170,8 +170,8 @@ SMTP_FROM="GoCart <noreply@gocart.local>"
 
 ## 📨 Contact
 
-* GitHub: [https://github.com/USERNAME](https://github.com/Aske1ade)
-* Telegram: [https://t.me/YOUR_HANDLE](https://t.me/lunarisamator)
-* Email: [email@domain.kz](mailto:aliar8004@gmail.com)
+* GitHub: [https://github.com/Aske1ade](https://github.com/Aske1ade)
+* Telegram: [https://t.me/lunarisamator](https://t.me/lunarisamator)
+* Email: [aliar8004@gmail.com](mailto:aliar8004@gmail.com)
 
 > If you find something useful here, consider leaving a ⭐ — it really helps.
