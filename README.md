@@ -153,12 +153,12 @@ SMTP_FROM="GoCart <noreply@gocart.local>"
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME\&show_icons=true\&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME\&layout=compact\&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=aske1ade\&show_icons=true\&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aske1ade\&layout=compact\&theme=transparent)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME\&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aske1ade\&theme=transparent)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=USERNAME\&theme=flat\&no-frame=true\&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aske1ade\&theme=flat\&no-frame=true\&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
