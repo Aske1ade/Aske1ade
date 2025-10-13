@@ -15,7 +15,7 @@ Building clean, production‑ready web apps and marketplaces.
 
 ## 📌 Profile README (Overview)
 
-* 🔭 Currently building **GoCart** — an open‑source multi‑vendor e‑commerce platform (Next.js + Tailwind + Redux Toolkit; optional FastAPI + PostgreSQL; S3/MinIO for media).
+* 🔭 Currently building **GoCart** — an open‑source multi‑vendor e‑commerce platform (Next.js + Tailwind + Redux Toolkit;  FastAPI + PostgreSQL; S3/MinIO for media).
 * 🎓 Thesis side‑project: **Restaurant Booking Platform** for large events in Kazakhstan.
 * 🛰 Networking & monitoring background: **MikroTik**, Grafana, Zabbix; interested in on‑prem **LLM/ASR** pipelines.
 * ⚙️ Favorite patterns: clean architecture, role‑based access, typed API contracts, CI/CD.
