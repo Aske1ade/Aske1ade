@@ -5,7 +5,7 @@
 **Full‑Stack Engineer** · Next.js / React · Tailwind · FastAPI · PostgreSQL · Docker · DevOps basics
 Building clean, production‑ready web apps and marketplaces.
 
-[![Telegram](https://img.shields.io/badge/Telegram-@lunarisamator-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/lunarisamator)
+[![Telegram](https://img.shields.io/badge/Telegram-@lunarisamatore-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/lunarisamatore)
 [![Email](https://img.shields.io/badge/Email-aliar8004@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:aliar8004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Askelade-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/askelade/)
 
